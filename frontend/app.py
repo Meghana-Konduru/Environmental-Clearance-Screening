@@ -121,6 +121,7 @@ with st.form("project_screening_form"):
                 "Mining project",
                 "Construction project",
                 "Power project",
+                "Cement Plant",
                 "Other"
             ]
         )
